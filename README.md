@@ -16,3 +16,11 @@
 [Don't branch](https://www.youtube.com/watch?v=v4Ijkq6Myfc&t=531s)  
 
 > Brancha eller inte? Skulle du tro att det är statistiskt bevisat att branching är dyrare?
+
+[OO elle FP]()
+
+> Trodde du att Objektorientering är den enda "paradigm" som gäller i IT branchen?
+
+[Microservice testing](https://www.youtube.com/watch?v=GPqJ1r9bHec)
+
+> 
