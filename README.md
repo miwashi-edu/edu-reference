@@ -12,6 +12,7 @@
 [Continuous Integration](https://martinfowler.com/books/duvall.html)
 
 > Martin Fowler är en av de mest namnkunniga IT gurus som finns i branchen, och värd att följa oavsett vad det gäller i IT.
+> Mer av Fowler [Given When Then](https://martinfowler.com/bliki/GivenWhenThen.html)
 
 [Don't branch](https://www.youtube.com/watch?v=v4Ijkq6Myfc&t=531s)  
 
